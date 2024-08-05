@@ -53,3 +53,7 @@ body {
 a {
     text-decoration: none;
 }
+
+.navbar-toggle{
+    float: right;
+}
