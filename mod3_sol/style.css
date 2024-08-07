@@ -1,0 +1,19 @@
+.navbar-brand {
+    padding-left: 20px;}
+
+div > section {
+    padding-left: 35px;
+    padding-right: 35px;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+section > h2 {
+    text-align: center;
+}
+
+.menu {
+    background-color: rgb(201, 95, 2);
+    margin: 20px;
+}
